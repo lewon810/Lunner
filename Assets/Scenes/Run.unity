@@ -413,7 +413,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1016660601}
   - component: {fileID: 1016660600}
-  - component: {fileID: 1016660599}
   - component: {fileID: 1016660598}
   m_Layer: 0
   m_Name: Plane
@@ -454,20 +453,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &1016660599
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1016660597}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Convex: 0
-  m_InflateMesh: 0
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!33 &1016660600
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -715,7 +700,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1529742660}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 9.26, y: 0, z: 4.08}
+  m_LocalPosition: {x: 7.74, y: 0, z: 13.39}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 783685435}
@@ -774,7 +759,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1635180717}
   m_LocalRotation: {x: 0, y: 0.72579473, z: 0, w: 0.68791133}
-  m_LocalPosition: {x: -5.27, y: 1.7, z: 6.24}
+  m_LocalPosition: {x: 0.4, y: 0, z: 7.45}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 783685435}
