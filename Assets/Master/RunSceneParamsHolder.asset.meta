@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 62ccd02d9eaee4a5e844ce569fc4f13c
+labels:
+- Data
+- RunSceneParamsHolder
+- ScriptableObject
+timeCreated: 1525508381
+licenseType: Free
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
