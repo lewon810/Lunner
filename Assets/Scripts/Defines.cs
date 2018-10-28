@@ -30,4 +30,8 @@
         Down,
     }
 
+    public class Defines
+    {
+        public const int DefaultFps = 60;
+    }
 }

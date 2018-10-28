@@ -72,6 +72,11 @@ namespace Lunner
             _validSlide = true;
             _validMove = true;
 
+            CreateMotionStateDict();
+        }
+
+        public void CreateMotionStateDict()
+        {
             _stateNameDict.Clear();
             for (int i = 0; i < (int)AnimationState.Max; i++)
             {
